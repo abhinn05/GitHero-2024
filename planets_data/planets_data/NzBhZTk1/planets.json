@@ -1,0 +1,404 @@
+{
+  "planets": [
+    {
+      "name": "Oasis-72",
+      "coordinates": "-314.7868,-33.1795"
+    },
+    {
+      "name": "Meridian-40",
+      "coordinates": "-48.0713,-37.6501"
+    },
+    {
+      "name": "Helios-93",
+      "coordinates": "-229.4559,40.4118"
+    },
+    {
+      "name": "Coriolis-5",
+      "coordinates": "-30.8115,22.0328"
+    },
+    {
+      "name": "Eden-9",
+      "coordinates": "191.1864,-85.4537"
+    },
+    {
+      "name": "Meridian-49",
+      "coordinates": "132.6443,-75.6811"
+    },
+    {
+      "name": "Gaia-94",
+      "coordinates": "181.6037,-23.9568"
+    },
+    {
+      "name": "Legerdomain",
+      "coordinates": "nu%uquB76"
+    },
+    {
+      "name": "Zephyr-96",
+      "coordinates": "290.2555,-54.6212"
+    },
+    {
+      "name": "Eden-16",
+      "coordinates": "4.3607,-36.8353"
+    },
+    {
+      "name": "Zephyr-11",
+      "coordinates": "-129.2592,8.6374"
+    },
+    {
+      "name": "Cryos-47",
+      "coordinates": "-312.0517,58.0272"
+    },
+    {
+      "name": "Eden-15",
+      "coordinates": "-245.3087,-3.6566"
+    },
+    {
+      "name": "Umbra-52",
+      "coordinates": "-119.2903,-15.7511"
+    },
+    {
+      "name": "Aethel-31",
+      "coordinates": "-301.0292,-79.1404"
+    },
+    {
+      "name": "Helios-61",
+      "coordinates": "187.976,-21.2093"
+    },
+    {
+      "name": "Aethel-19",
+      "coordinates": "122.0583,-17.857"
+    },
+    {
+      "name": "Helios-25",
+      "coordinates": "-81.5248,7.1297"
+    },
+    {
+      "name": "Umbra-84",
+      "coordinates": "-228.4233,-74.1042"
+    },
+    {
+      "name": "Cyanor-11",
+      "coordinates": "-237.8774,11.2347"
+    },
+    {
+      "name": "Meridian-15",
+      "coordinates": "95.2528,-26.4821"
+    },
+    {
+      "name": "Gaia-51",
+      "coordinates": "-102.4431,-45.2396"
+    },
+    {
+      "name": "Xibalba-46",
+      "coordinates": "153.0802,40.5392"
+    },
+    {
+      "name": "Xibalba-42",
+      "coordinates": "-195.3811,56.046"
+    },
+    {
+      "name": "Gaia-34",
+      "coordinates": "-105.6927,-85.8776"
+    },
+    {
+      "name": "Nebula-45",
+      "coordinates": "272.6916,-60.6194"
+    },
+    {
+      "name": "Crimson-18",
+      "coordinates": "82.6935,85.5073"
+    },
+    {
+      "name": "Cryos-8",
+      "coordinates": "279.7004,-75.9004"
+    },
+    {
+      "name": "Eden-4",
+      "coordinates": "35.348,-19.2265"
+    },
+    {
+      "name": "Nebula-100",
+      "coordinates": "-271.2764,34.3077"
+    },
+    {
+      "name": "Meridian-22",
+      "coordinates": "-44.1746,-24.3268"
+    },
+    {
+      "name": "Aethel-52",
+      "coordinates": "-113.2266,6.7091"
+    },
+    {
+      "name": "Cryos-52",
+      "coordinates": "-147.7357,71.4411"
+    },
+    {
+      "name": "Lumina-99",
+      "coordinates": "205.8593,-61.2088"
+    },
+    {
+      "name": "Nebula-3",
+      "coordinates": "-283.7375,-46.4622"
+    },
+    {
+      "name": "Gaia-13",
+      "coordinates": "-68.0863,28.0406"
+    },
+    {
+      "name": "Coriolis-4",
+      "coordinates": "-248.5265,-30.7409"
+    },
+    {
+      "name": "Crimson-59",
+      "coordinates": "-297.7423,9.0277"
+    },
+    {
+      "name": "Coriolis-2",
+      "coordinates": "286.3458,-59.4564"
+    },
+    {
+      "name": "Eden-66",
+      "coordinates": "317.2647,-68.9358"
+    },
+    {
+      "name": "Aethel-66",
+      "coordinates": "129.7359,28.6746"
+    },
+    {
+      "name": "Oasis-38",
+      "coordinates": "160.0509,-34.2762"
+    },
+    {
+      "name": "Coriolis-17",
+      "coordinates": "126.8537,-26.499"
+    },
+    {
+      "name": "Umbra-26",
+      "coordinates": "47.0451,-17.3519"
+    },
+    {
+      "name": "Cyanor-23",
+      "coordinates": "-209.3686,-60.3263"
+    },
+    {
+      "name": "Helios-18",
+      "coordinates": "-59.0651,4.5054"
+    },
+    {
+      "name": "Umbra-86",
+      "coordinates": "-64.2655,-39.6594"
+    },
+    {
+      "name": "Oasis-3",
+      "coordinates": "-313.1931,75.4969"
+    },
+    {
+      "name": "Cyanor-99",
+      "coordinates": "132.7424,72.0359"
+    },
+    {
+      "name": "Nebula-50",
+      "coordinates": "-9.721,9.892"
+    },
+    {
+      "name": "Xibalba-61",
+      "coordinates": "58.9616,-63.1472"
+    },
+    {
+      "name": "Umbra-61",
+      "coordinates": "222.7351,42.2701"
+    },
+    {
+      "name": "Meridian-86",
+      "coordinates": "353.7592,72.9129"
+    },
+    {
+      "name": "Xibalba-53",
+      "coordinates": "-318.6132,84.0774"
+    },
+    {
+      "name": "Cryos-44",
+      "coordinates": "106.1981,55.8352"
+    },
+    {
+      "name": "Meridian-80",
+      "coordinates": "121.3624,70.1721"
+    },
+    {
+      "name": "Lumina-54",
+      "coordinates": "-276.0486,60.4369"
+    },
+    {
+      "name": "Crimson-42",
+      "coordinates": "137.8553,52.1914"
+    },
+    {
+      "name": "Coriolis-4",
+      "coordinates": "-3.1376,-54.8237"
+    },
+    {
+      "name": "Cyanor-11",
+      "coordinates": "-214.4401,4.0248"
+    },
+    {
+      "name": "Zephyr-32",
+      "coordinates": "61.09,55.0336"
+    },
+    {
+      "name": "Eden-85",
+      "coordinates": "259.9376,-36.7966"
+    },
+    {
+      "name": "Nebula-26",
+      "coordinates": "333.7582,-10.7757"
+    },
+    {
+      "name": "Cryos-89",
+      "coordinates": "149.5992,-3.6183"
+    },
+    {
+      "name": "Eden-29",
+      "coordinates": "308.5253,-68.5571"
+    },
+    {
+      "name": "Terra-87",
+      "coordinates": "-24.77,-0.9497"
+    },
+    {
+      "name": "Terra-35",
+      "coordinates": "-241.2522,-74.4583"
+    },
+    {
+      "name": "Xibalba-57",
+      "coordinates": "-176.1282,-50.5315"
+    },
+    {
+      "name": "Lumina-56",
+      "coordinates": "263.3595,3.3717"
+    },
+    {
+      "name": "Cyanor-5",
+      "coordinates": "212.7778,31.4746"
+    },
+    {
+      "name": "Oasis-5",
+      "coordinates": "343.7617,32.0808"
+    },
+    {
+      "name": "Meridian-97",
+      "coordinates": "181.6758,-0.4708"
+    },
+    {
+      "name": "Meridian-53",
+      "coordinates": "-219.0603,-76.886"
+    },
+    {
+      "name": "Cyanor-68",
+      "coordinates": "-66.7804,-44.6659"
+    },
+    {
+      "name": "Xibalba-99",
+      "coordinates": "-299.2839,2.1856"
+    },
+    {
+      "name": "Crimson-47",
+      "coordinates": "-292.0721,3.3139"
+    },
+    {
+      "name": "Helios-81",
+      "coordinates": "261.0654,89.9495"
+    },
+    {
+      "name": "Oasis-47",
+      "coordinates": "143.6572,6.0596"
+    },
+    {
+      "name": "Eden-9",
+      "coordinates": "324.9536,-19.6327"
+    },
+    {
+      "name": "Terra-31",
+      "coordinates": "-278.8061,-57.0473"
+    },
+    {
+      "name": "Cryos-64",
+      "coordinates": "-214.8838,-14.3856"
+    },
+    {
+      "name": "Aethel-83",
+      "coordinates": "-280.6427,-18.5975"
+    },
+    {
+      "name": "Nebula-23",
+      "coordinates": "-79.9016,21.5904"
+    },
+    {
+      "name": "Zephyr-81",
+      "coordinates": "-84.1142,69.0242"
+    },
+    {
+      "name": "Meridian-75",
+      "coordinates": "-284.2959,-73.8756"
+    },
+    {
+      "name": "Coriolis-5",
+      "coordinates": "-87.035,32.4416"
+    },
+    {
+      "name": "Oasis-2",
+      "coordinates": "-91.436,23.2034"
+    },
+    {
+      "name": "Cryos-77",
+      "coordinates": "-310.9796,-31.5099"
+    },
+    {
+      "name": "Eden-33",
+      "coordinates": "5.0227,10.0297"
+    },
+    {
+      "name": "Lumina-60",
+      "coordinates": "13.4503,6.6521"
+    },
+    {
+      "name": "Zephyr-100",
+      "coordinates": "-326.8846,57.1628"
+    },
+    {
+      "name": "Gaia-33",
+      "coordinates": "257.7223,80.5769"
+    },
+    {
+      "name": "Oasis-62",
+      "coordinates": "23.2207,-34.2095"
+    },
+    {
+      "name": "Cyanor-78",
+      "coordinates": "-29.3613,25.0569"
+    },
+    {
+      "name": "Lumina-57",
+      "coordinates": "349.4528,59.6791"
+    },
+    {
+      "name": "Nebula-72",
+      "coordinates": "-160.4406,80.7521"
+    },
+    {
+      "name": "Coriolis-27",
+      "coordinates": "50.4292,57.9099"
+    },
+    {
+      "name": "Umbra-46",
+      "coordinates": "-1.8072,14.5938"
+    },
+    {
+      "name": "Gaia-20",
+      "coordinates": "110.4508,-38.4374"
+    },
+    {
+      "name": "Xibalba-62",
+      "coordinates": "146.2818,80.1399"
+    }
+  ]
+}
